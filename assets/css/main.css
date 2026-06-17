@@ -2198,6 +2198,13 @@ input, select, textarea {
 					top: 2em;
 				}
 
+				.main-logo {
+					display: block;
+					margin: 0 auto 2em auto;
+					width: 75%;
+					height: auto;
+				}
+
 		}
 
 		@media screen and (max-width: 480px) {
@@ -2210,6 +2217,13 @@ input, select, textarea {
 					left: 0;
 					position: relative;
 					top: 0;
+				}
+
+				.main-logo {
+					display: block;
+					margin: 0 auto 2em auto;
+					width: 85%;
+					height: auto;
 				}
 
 		}
